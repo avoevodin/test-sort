@@ -1,4 +1,4 @@
-* Test sort program
+# Test sort program
 
-** Some sample of sorting
+## Some sample of sorting
 
